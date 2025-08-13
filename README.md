@@ -83,7 +83,18 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
+      <td width="33%" valign="top">
+        <div align="center">
+          <h3><a href="https://github.com/TimurPanin/Snake-Game-Pro">🐍 Snake Game Pro</a></h3>
+          <p>Современная версия классической игры "Змейка" с множеством новых возможностей. Включает режимы Classic, Speed, Maze, пауэр-апы, систему прогрессии и адаптивный дизайн.</p>
+          <p>
+            <img src="https://img.shields.io/github/stars/TimurPanin/Snake-Game-Pro?style=social&label=Stars" alt="Stars"/>
+            <img src="https://img.shields.io/github/languages/top/TimurPanin/Snake-Game-Pro?color=6C63FF" alt="Top Language"/>
+            <img src="https://img.shields.io/github/last-commit/TimurPanin/Snake-Game-Pro?color=6C63FF" alt="Last Commit"/>
+          </p>
+        </div>
+      </td>
+      <td width="33%" valign="top">
         <div align="center">
           <h3><a href="https://github.com/TimurPanin/To-do-list">📝 To‑do List</a></h3>
           <p>Простой и удобный список задач с возможностью добавления, редактирования и удаления. Разработан с использованием HTML, CSS и JavaScript для быстрого и чистого UI.</p>
@@ -94,7 +105,7 @@
           </p>
         </div>
       </td>
-      <td width="50%" valign="top">
+      <td width="33%" valign="top">
         <div align="center">
           <h3><a href="https://github.com/TimurPanin/The-Mental-Diary">🧠 The Mental Diary</a></h3>
           <p>Дневник психического здоровья с функциями записи мыслей, отслеживания настроения и анализом данных. Подходит для самопомощи и рефлексии.</p>
@@ -192,5 +203,5 @@
 ---
 
 <div align="center">
-  <sub>🔄 Последнее обновление: 2025‑01‑12 | ⏰ Время: <script>document.write(new Date().toLocaleString())</script></sub>
+  <sub>🔄 Последнее обновление: 2025‑01‑13 | ⏰ Время: <script>document.write(new Date().toLocaleString())</script></sub>
 </div>
