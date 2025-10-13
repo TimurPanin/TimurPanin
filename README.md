@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Timur+Panin+%F0%9F%90%8D;Beginner+Python+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Timur+Panin+%F0%9F%90%8D;Python+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -28,12 +28,12 @@
 
 ### 📍 Basic Information
 - **📍 Location:** Russia  
-- **💼 Status:** Beginner / Independent Developer  
+- **💼 Status:** Independent Developer  
 - **🎯 Focus:** Python, Automation, FastAPI, Flask  
 - **💬 Languages:** EN / RU *(learning Bahasa Indonesia)*  
-- **✨ Interests:** Open Source, backend scripting, CLI tools, process automation  
+- **✨ Interests:** Open Source, backend scripting, CLI tools, automation  
 
-> I'm a beginner Python developer focused on building clean, efficient, and meaningful code that solves real problems.
+> Passionate Python developer focused on building clean, efficient, and meaningful software that solves real-world problems.
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 📦 Pinned Tools & Libraries I Use
+## 📦 Tools & Libraries I Use
 
 <div align="center">
   <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="yt-dlp" />
@@ -58,10 +58,8 @@
   <img src="https://img.shields.io/badge/Requests-005571?style=for-the-badge&logo=python&logoColor=white" alt="requests" />
   <img src="https://img.shields.io/badge/BeautifulSoup4-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup4" />
   <img src="https://img.shields.io/badge/moviepy-FF5722?style=for-the-badge&logo=python&logoColor=white" alt="moviepy" />
-  <img src="https://img.shields.io/badge/pytube-4285F4?style=for-the-badge&logo=youtube&logoColor=white" alt="pytube" />
   <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="openpyxl" />
   <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pillow" />
-  <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
 </div>
 
 ---
@@ -99,7 +97,7 @@
       <td width="50%" valign="top">
         <div align="center">
           <h3><a href="https://github.com/TimurPanin/clipfetch-site">🎯 ClipFetch Site</a></h3>
-          <p>Website for <strong>ClipFetch</strong> — a video/media downloader platform. Includes frontend & backend integration, responsive design, and GitHub-based auto-update system.</p>
+          <p>Website for <strong>ClipFetch</strong> — a video/media downloader platform. Includes responsive UI, backend integration, and GitHub auto-update sync.</p>
           <p>
             <img src="https://img.shields.io/github/stars/TimurPanin/clipfetch-site?style=social&label=Stars" />
             <img src="https://img.shields.io/github/languages/top/TimurPanin/clipfetch-site?color=4B8BBE" />
@@ -109,8 +107,8 @@
       </td>
       <td width="50%" valign="top">
         <div align="center">
-          <h3><a href="https://github.com/TimurPanin/video-downloader-gui">📥 Video Downloader GUI</a></h3>
-          <p>Desktop GUI app for downloading videos from YouTube, TikTok, Pinterest & Spotify. Built with Python, PyQt6, and yt-dlp with progress bar and playlist support.</p>
+          <h3><a href="https://github.com/TimurPanin/video-downloader-gui">📥 Video Downloader GUI — YouTube & TikTok</a></h3>
+          <p>Desktop GUI app for downloading videos and audio from <b>YouTube</b> and <b>TikTok</b>. Built with <b>Python</b>, <b>PyQt6</b>, and <b>yt-dlp</b>. Includes playlist support, progress bar, and EN/RU interface.</p>
           <p>
             <img src="https://img.shields.io/github/stars/TimurPanin/video-downloader-gui?style=social&label=Stars" />
             <img src="https://img.shields.io/github/languages/top/TimurPanin/video-downloader-gui?color=4B8BBE" />
@@ -175,11 +173,11 @@
 
 ## 🎯 2025 Goals
 
-- [ ] 🐍 Build more Python open-source projects  
-- [ ] 🔧 Learn Django and FastAPI deeper  
-- [ ] ☁️ Deploy my first Python web app to the cloud  
-- [ ] ✍️ Write tech articles on GitHub and Medium  
-- [ ] 🎓 Improve my English & Bahasa Indonesia  
+- [ ] 🐍 Build more open-source Python projects  
+- [ ] 🔧 Master Django and FastAPI  
+- [ ] ☁️ Deploy my first full-stack web app  
+- [ ] ✍️ Write tech blogs on GitHub & Medium  
+- [ ] 🎓 Improve English & Bahasa Indonesia  
 
 ---
 
