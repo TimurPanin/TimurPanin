@@ -37,27 +37,56 @@
 
 ---
 
+## 📚 Currently Learning
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+---
+
+## 📦 Pinned Tools & Libraries I Use
+
+<div align="center">
+  <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="yt-dlp" />
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6" />
+  <img src="https://img.shields.io/badge/Tkinter-FFDD00?style=for-the-badge&logo=python&logoColor=black" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/Requests-005571?style=for-the-badge&logo=python&logoColor=white" alt="requests" />
+  <img src="https://img.shields.io/badge/BeautifulSoup4-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup4" />
+  <img src="https://img.shields.io/badge/moviepy-FF5722?style=for-the-badge&logo=python&logoColor=white" alt="moviepy" />
+  <img src="https://img.shields.io/badge/pytube-4285F4?style=for-the-badge&logo=youtube&logoColor=white" alt="pytube" />
+  <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="openpyxl" />
+  <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pillow" />
+  <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
   <h3>🐍 Python & Backend</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
   <h3>🧩 Frontend & Tools</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
   <h3>🔧 DevOps & Utilities</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
@@ -67,33 +96,25 @@
 <div align="center">
   <table>
     <tr>
-      <td width="33%" valign="top">
+      <td width="50%" valign="top">
         <div align="center">
-          <h3><a href="https://github.com/TimurPanin/Python-Automation-Toolkit">⚙️ Python Automation Toolkit</a></h3>
-          <p>A collection of Python scripts for automating daily tasks — from file management to API requests.</p>
+          <h3><a href="https://github.com/TimurPanin/clipfetch-site">🎯 ClipFetch Site</a></h3>
+          <p>Website for <strong>ClipFetch</strong> — a video/media downloader platform. Includes frontend & backend integration, responsive design, and GitHub-based auto-update system.</p>
           <p>
-            <img src="https://img.shields.io/github/stars/TimurPanin/Python-Automation-Toolkit?style=social&label=Stars" />
-            <img src="https://img.shields.io/github/languages/top/TimurPanin/Python-Automation-Toolkit?color=4B8BBE" />
+            <img src="https://img.shields.io/github/stars/TimurPanin/clipfetch-site?style=social&label=Stars" />
+            <img src="https://img.shields.io/github/languages/top/TimurPanin/clipfetch-site?color=4B8BBE" />
+            <img src="https://img.shields.io/github/last-commit/TimurPanin/clipfetch-site?color=4B8BBE" />
           </p>
         </div>
       </td>
-      <td width="33%" valign="top">
+      <td width="50%" valign="top">
         <div align="center">
-          <h3><a href="https://github.com/TimurPanin/Flask-Blog-App">📝 Flask Blog App</a></h3>
-          <p>A minimal blog engine built with Flask and SQLite. Includes authentication, markdown posts, and comments.</p>
+          <h3><a href="https://github.com/TimurPanin/video-downloader-gui">📥 Video Downloader GUI</a></h3>
+          <p>Desktop GUI app for downloading videos from YouTube, TikTok, Pinterest & Spotify. Built with Python, PyQt6, and yt-dlp with progress bar and playlist support.</p>
           <p>
-            <img src="https://img.shields.io/github/stars/TimurPanin/Flask-Blog-App?style=social&label=Stars" />
-            <img src="https://img.shields.io/github/languages/top/TimurPanin/Flask-Blog-App?color=4B8BBE" />
-          </p>
-        </div>
-      </td>
-      <td width="33%" valign="top">
-        <div align="center">
-          <h3><a href="https://github.com/TimurPanin/CLI-File-Manager">📂 CLI File Manager</a></h3>
-          <p>A Python command-line tool for organizing, renaming, and managing files efficiently.</p>
-          <p>
-            <img src="https://img.shields.io/github/stars/TimurPanin/CLI-File-Manager?style=social&label=Stars" />
-            <img src="https://img.shields.io/github/languages/top/TimurPanin/CLI-File-Manager?color=4B8BBE" />
+            <img src="https://img.shields.io/github/stars/TimurPanin/video-downloader-gui?style=social&label=Stars" />
+            <img src="https://img.shields.io/github/languages/top/TimurPanin/video-downloader-gui?color=4B8BBE" />
+            <img src="https://img.shields.io/github/last-commit/TimurPanin/video-downloader-gui?color=4B8BBE" />
           </p>
         </div>
       </td>
@@ -146,7 +167,7 @@
 ## ❤️ Support
 
 <div align="center">
-  <p>If you like my projects - consider giving a ⭐ or supporting me with coffee ☕</p>
+  <p>If you like my projects — consider giving a ⭐ or supporting me with coffee ☕</p>
   <a href="https://www.buymeacoffee.com/TimurPanin"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </div>
 
