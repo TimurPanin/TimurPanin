@@ -1,4 +1,4 @@
-[<img width="996" height="1512" alt="image" src="https://github.com/user-attachments/assets/2a9477a0-761a-420c-bd8d-7bdc408d228a" />](https://gitfut.com/TimurPanin)
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Timur+Panin+%F0%9F%90%8D;Python+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
