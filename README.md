@@ -52,7 +52,7 @@
 |---|---|---|
 | **[Video Downloader GUI](https://github.com/TimurPanin/video-downloader-gui)** | `Python` `Tkinter` `yt-dlp` | Desktop app for downloading video and audio from YouTube and TikTok, with playlist support, browser cookies, progress tracking and RU/EN localization. |
 | **[Dusk on the Great Wall](https://github.com/TimurPanin/legend-of-the-red-dragon)** | `TypeScript` `Phaser` `Vite` | Retro-style browser pixel action prototype with combat, enemy behaviours, procedural pixel art, synthesized sound effects and a boss encounter. |
-| **[ClipFetch Site](https://github.com/TimurPanin/clipfetch-site)** | `HTML` `CSS` | Responsive landing page with SEO metadata, privacy page, sitemap and custom-domain setup. |
+| **[Snake Game Pro](https://github.com/TimurPanin/Snake-Game-Pro)** | `React` `JavaScript` `Webpack` | Extended Snake game with multiple game modes, power-ups and modular game logic. |
 
 ---
 
