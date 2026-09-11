@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Timur+Panin+%F0%9F%90%8D;Python+Developer;AI-assisted+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Timur+Panin+%F0%9F%90%8D;Python+Developer;AI-Assisted+Development" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <em>🐍 Python • ⚙️ Automation • 🤖 AI-assisted Development • 🧩 Software Projects</em>
+  <em>🐍 Python • ⚙️ Automation • 🤖 AI-Assisted Development • 🧩 Software Projects</em>
 </div>
 
 ### 📍 Basic Information
@@ -27,7 +27,7 @@
 - **Status:** Independent Developer
 - **Main focus:** Python, desktop tools, automation, AI-assisted development
 - **Also working with:** JavaScript, TypeScript, React and web technologies
-- **Languages:** RU / EN *(learning Bahasa Indonesia)*
+- **Languages:** Russian, English *(learning Bahasa Indonesia)*
 - **Current work:** public projects plus a larger private project in active development
 
 > I build practical software, experiment with different technologies, and use AI tools as part of my development workflow.
@@ -40,7 +40,7 @@
 
 **Languages & Web:** `Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
 
-**Frameworks & Libraries:** `Tkinter` · `React` · `Phaser` · `yt-dlp` · `Requests`
+**Frameworks & Libraries:** `Tkinter` · `React` · `Phaser` · `yt-dlp` · `requests`
 
 **Tooling:** `Git` · `GitHub` · `Vite` · `Webpack` · `Jest`
 
@@ -50,8 +50,8 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| **[Video Downloader GUI](https://github.com/TimurPanin/video-downloader-gui)** | `Python` `Tkinter` `yt-dlp` | Desktop app for downloading video and audio from YouTube and TikTok, with playlist support, browser cookies, progress tracking and RU/EN localization. |
-| **[Dusk on the Great Wall](https://github.com/TimurPanin/dusk-on-the-great-wall)** | `TypeScript` `Phaser` `Vite` | Retro-style browser pixel action prototype with combat, enemy behaviours, procedural pixel art, synthesized sound effects and a boss encounter. |
+| **[Video Downloader GUI](https://github.com/TimurPanin/video-downloader-gui)** | `Python` `Tkinter` `yt-dlp` | Desktop app for downloading video and audio from YouTube and TikTok, with playlist support, browser cookies, progress tracking and Russian/English localization. |
+| **[Dusk on the Great Wall](https://github.com/TimurPanin/dusk-on-the-great-wall)** | `TypeScript` `Phaser` `Vite` | Retro-style browser pixel action prototype with combat, enemy behavior, procedural pixel art, synthesized sound effects and a boss encounter. |
 | **[Snake Game Pro](https://github.com/TimurPanin/Snake-Game-Pro)** | `React` `JavaScript` `Webpack` | Extended Snake game with multiple game modes, power-ups and modular game logic. |
 
 ---
