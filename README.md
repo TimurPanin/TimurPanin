@@ -51,7 +51,7 @@
 | Project | Stack | Description |
 |---|---|---|
 | **[Video Downloader GUI](https://github.com/TimurPanin/video-downloader-gui)** | `Python` `Tkinter` `yt-dlp` | Desktop app for downloading video and audio from YouTube and TikTok, with playlist support, browser cookies, progress tracking and RU/EN localization. |
-| **[Snake Game Pro](https://github.com/TimurPanin/Snake-Game-Pro)** | `React` `Webpack` `Jest` | Extended Snake game with multiple modes, power-ups and modular game logic. |
+| **[Legend of the Red Dragon](https://github.com/TimurPanin/game1)** | `TypeScript` `Phaser` `Vite` | Retro-style browser pixel action prototype with combat, enemy behaviours, procedural pixel art, synthesized sound effects and a boss encounter. |
 | **[ClipFetch Site](https://github.com/TimurPanin/clipfetch-site)** | `HTML` `CSS` | Responsive landing page with SEO metadata, privacy page, sitemap and custom-domain setup. |
 
 ---
