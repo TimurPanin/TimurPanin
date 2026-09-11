@@ -36,44 +36,23 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Primary:** `Python` · `Automation` · `AI-assisted development`
 
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+**Languages & Web:** `Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
 
-### Frameworks & Libraries
-<img src="https://img.shields.io/badge/Tkinter-FFDD00?style=for-the-badge&logo=python&logoColor=black" alt="Tkinter" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Phaser-2F2F2F?style=for-the-badge&logo=javascript&logoColor=white" alt="Phaser" />
-<img src="https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="yt-dlp" />
-<img src="https://img.shields.io/badge/Requests-005571?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
+**Frameworks & Libraries:** `Tkinter` · `React` · `Phaser` · `yt-dlp` · `Requests`
 
-### Development Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-<img src="https://img.shields.io/badge/AI--assisted-Development-4B8BBE?style=for-the-badge" alt="AI-assisted development" />
-
-</div>
+**Tooling:** `Git` · `GitHub` · `Vite` · `Webpack` · `Jest`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📥 [Video Downloader GUI — YouTube & TikTok](https://github.com/TimurPanin/video-downloader-gui)
-Desktop application for downloading video and audio from YouTube and TikTok. Built with **Python, Tkinter and yt-dlp**. Includes playlist support, browser cookies, progress tracking and RU/EN localization.
-
-### 🎮 [Snake Game Pro](https://github.com/TimurPanin/Snake-Game-Pro)
-A more advanced version of the classic Snake game built with **React**. The project includes multiple game modes, power-ups, modular game logic, Jest tooling and a Webpack-based build.
-
-### 🎯 [ClipFetch Site](https://github.com/TimurPanin/clipfetch-site)
-Responsive landing page for the ClipFetch service. Built with **HTML/CSS**, with SEO metadata, privacy page, sitemap and a custom domain setup.
+| Project | Stack | Description |
+|---|---|---|
+| **[Video Downloader GUI](https://github.com/TimurPanin/video-downloader-gui)** | `Python` `Tkinter` `yt-dlp` | Desktop app for downloading video and audio from YouTube and TikTok, with playlist support, browser cookies, progress tracking and RU/EN localization. |
+| **[Snake Game Pro](https://github.com/TimurPanin/Snake-Game-Pro)** | `React` `Webpack` `Jest` | Extended Snake game with multiple modes, power-ups and modular game logic. |
+| **[ClipFetch Site](https://github.com/TimurPanin/clipfetch-site)** | `HTML` `CSS` | Responsive landing page with SEO metadata, privacy page, sitemap and custom-domain setup. |
 
 ---
 
