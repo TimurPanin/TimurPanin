@@ -1,82 +1,88 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Timur+Panin+%F0%9F%90%8D;Python+Developer;AI-Assisted+Development" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TimurPanin&style=flat-square&color=4B8BBE" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/TimurPanin?label=Followers&style=flat-square&color=4B8BBE" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/TimurPanin?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=4B8BBE" alt="Stars" />
-</div>
+# Привет, я Тимур 👋
 
----
+**SEO-специалист и разработчик на Python**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer workspace banner" width="100%" />
+Делаю технические SEO-аудиты сайтов и пишу для этого свои инструменты.
+
+[![Сайт](https://img.shields.io/badge/timurpanin.ru-портфолио-6c7bff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://timurpanin.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-написать-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OBB1k)
+
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 Обо мне
 
-<div align="center">
-  <em>🐍 Python • ⚙️ Automation • 🤖 AI-Assisted Development • 🧩 Software Projects</em>
-</div>
-
-### 📍 Basic Information
-- **Location:** Russia
-- **Status:** Independent Developer
-- **Main focus:** Python, desktop tools, automation, AI-assisted development
-- **Also working with:** JavaScript, TypeScript, React and web technologies
-- **Languages:** Russian, English *(learning Bahasa Indonesia)*
-- **Current work:** public projects plus a larger private project in active development
-
-> I build practical software, experiment with different technologies, and use AI tools as part of my development workflow.
+- 🔍 Провожу **технические SEO-аудиты**: индексация, дубли, редиректы, скорость, мобильная версия, семантика.
+- 🛠️ Пишу **свои инструменты** на Python, когда готовых не хватает. Главный из них: Clayler SEO.
+- 🤖 Работаю вместе с ИИ: Claude и другие модели помогают мне писать код, тесты и документацию.
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Главный проект
 
-**Primary:** `Python` · `Automation` · `AI-assisted development`
-
-**Languages & Web:** `Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
-
-**Frameworks & Libraries:** `Tkinter` · `React` · `Phaser` · `yt-dlp` · `requests`
-
-**Tooling:** `Git` · `GitHub` · `Vite` · `Webpack` · `Jest`
+<table>
+  <tr>
+    <td width="55%">
+      <a href="https://github.com/TimurPanin/Clayler-SEO">
+        <img src="https://github.com/TimurPanin/Clayler-SEO/raw/main/docs/screenshots/new-check.png" alt="Clayler SEO" />
+      </a>
+    </td>
+    <td width="45%" valign="top">
+      <h3><a href="https://github.com/TimurPanin/Clayler-SEO">Clayler SEO</a></h3>
+      <p>Программа для технического аудита и семантики сайтов. Обходит сайт как поисковый робот и собирает готовые отчёты для себя, клиента и разработчика.</p>
+      <ul>
+        <li>200+ видов проблем в 50+ группах проверок</li>
+        <li>Яндекс Вебмастер, Метрика, Search Console</li>
+        <li>семантика: подсказки, Вордстат, ТЗ копирайтеру</li>
+        <li>отчёты в HTML, Excel, PDF и Word</li>
+        <li>уведомления в Telegram</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+### 📂 Другие проекты
 
-| Project | Stack | Description |
+| Проект | Что это | Стек |
 |---|---|---|
-| **[Video Downloader GUI](https://github.com/TimurPanin/video-downloader-gui)** | `Python` `Tkinter` `yt-dlp` | Desktop app for downloading video and audio from YouTube and TikTok, with playlist support, browser cookies, progress tracking and Russian/English localization. |
-| **[Dusk on the Great Wall](https://github.com/TimurPanin/dusk-on-the-great-wall)** | `TypeScript` `Phaser` `Vite` | Retro-style browser pixel action prototype with combat, enemy behavior, procedural pixel art, synthesized sound effects and a boss encounter. |
-| **[Snake Game Pro](https://github.com/TimurPanin/Snake-Game-Pro)** | `React` `JavaScript` `Webpack` | Extended Snake game with multiple game modes, power-ups and modular game logic. |
+| 🌐 **[timurpanin.ru](https://timurpanin.ru)** · [код](https://github.com/TimurPanin/SEO_Portfolio) | моё SEO-портфолио: кейсы аудитов реальных сайтов | `HTML` `CSS` `JavaScript` `GitHub Pages` |
+| 🎬 **[Video Downloader GUI](https://github.com/TimurPanin/video-downloader-gui)** | программа для скачивания видео и аудио с YouTube и TikTok | `Python` `Tkinter` `yt-dlp` |
+| 🏯 **[Dusk on the Great Wall](https://github.com/TimurPanin/dusk-on-the-great-wall)** | браузерная пиксельная игра: бои, враги и босс | `TypeScript` `Phaser` `Vite` |
+| 🐍 **[Snake Game Pro](https://github.com/TimurPanin/Snake-Game-Pro)** | «Змейка» с режимами игры и бонусами | `React` `JavaScript` `Jest` |
 
 ---
 
-## 📫 Contact Me
+### 🛠️ Чем пользуюсь
 
-<div align="center">
-  <a href="https://t.me/OBB1k"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:timyr.panin12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://vk.com/obb1k"><img src="https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte" /></a>
-  <a href="https://www.linkedin.com/in/timur-panin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
+**SEO:** Яндекс Вебмастер · Яндекс Метрика · Google Search Console · Вордстат · Букварикс
 
----
+**Код:**
 
-## 🎯 2026 Goals
-
-- [ ] Build and publish more practical Python projects
-- [ ] Improve testing, architecture and maintainability
-- [ ] Develop more automation and AI-assisted tooling
-- [ ] Improve documentation and demos for public projects
-- [ ] Keep improving English and Bahasa Indonesia
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ---
 
-<div align="center">
-  <sub>Building, learning and improving one project at a time.</sub>
-</div>
+### 📫 Связаться
+
+<a href="https://t.me/OBB1k"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:timyr.panin12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://vk.com/obb1k"><img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="ВКонтакте" /></a>
+<a href="https://www.linkedin.com/in/timur-panin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
