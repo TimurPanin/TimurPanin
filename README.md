@@ -2,11 +2,11 @@
 
 # Привет, я Тимур 👋
 
-**SEO-специалист и разработчик на Python**
+**Разработчик на Python**
 
-Делаю технические SEO-аудиты сайтов и пишу для этого свои инструменты.
+Пишу программы для себя: от проверки сайтов до загрузчика видео и игр.
 
-[![Сайт](https://img.shields.io/badge/timurpanin.ru-портфолио-6c7bff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://timurpanin.ru)
+[![Сайт](https://img.shields.io/badge/timurpanin.ru-сайт-6c7bff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://timurpanin.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-написать-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OBB1k)
 
 </div>
@@ -15,8 +15,8 @@
 
 ### 🧑‍💻 Обо мне
 
-- 🔍 Провожу **технические SEO-аудиты**: индексация, дубли, редиректы, скорость, мобильная версия, семантика.
-- 🛠️ Пишу **свои инструменты** на Python, когда готовых не хватает. Главный из них: Clayler SEO.
+- 🐍 Пишу на **Python** программы, которые нужны мне самому.
+- 🔍 Интересуюсь SEO и для этого написал свою программу для проверки сайтов: **Clayler SEO**.
 - 🤖 Работаю вместе с ИИ: Claude и другие модели помогают мне писать код, тесты и документацию.
 
 ---
@@ -55,7 +55,7 @@
 
 | Проект | Что это | Стек |
 |---|---|---|
-| 🌐 **[timurpanin.ru](https://timurpanin.ru)** · [код](https://github.com/TimurPanin/SEO_Portfolio) | моё SEO-портфолио: кейсы аудитов реальных сайтов | `HTML` `CSS` `JavaScript` `GitHub Pages` |
+| 🌐 **[timurpanin.ru](https://timurpanin.ru)** · [код](https://github.com/TimurPanin/SEO_Portfolio) | мой сайт: разборы сайтов, сделанные в Clayler SEO | `HTML` `CSS` `JavaScript` `GitHub Pages` |
 | 🎬 **[Video Downloader GUI](https://github.com/TimurPanin/video-downloader-gui)** | программа для скачивания видео и аудио с YouTube и TikTok | `Python` `Tkinter` `yt-dlp` |
 | 🏯 **[Dusk on the Great Wall](https://github.com/TimurPanin/dusk-on-the-great-wall)** | браузерная пиксельная игра: бои, враги и босс | `TypeScript` `Phaser` `Vite` |
 | 🐍 **[Snake Game Pro](https://github.com/TimurPanin/Snake-Game-Pro)** | «Змейка» с режимами игры и бонусами | `React` `JavaScript` `Jest` |
@@ -63,10 +63,6 @@
 ---
 
 ### 🛠️ Чем пользуюсь
-
-**SEO:** Яндекс Вебмастер · Яндекс Метрика · Google Search Console · Вордстат · Букварикс
-
-**Код:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
