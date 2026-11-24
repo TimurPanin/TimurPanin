@@ -1,10 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:6c7bff&height=200&section=header&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20%D0%A2%D0%B8%D0%BC%D1%83%D1%80&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%D0%BD%D0%B0%20Python&descSize=20&descAlignY=58&animation=fadeIn" alt="Привет, я Тимур" width="100%" />
+
 <div align="center">
 
-# Привет, я Тимур 👋
-
-**Разработчик на Python**
-
-Пишу программы для себя: от проверки сайтов до загрузчика видео.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=6C7BFF&center=true&vCenter=true&width=560&lines=%D0%9F%D0%B8%D1%88%D1%83+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B+%D0%BD%D0%B0+Python+%F0%9F%90%8D;Clayler+SEO+%E2%80%94+%D0%B0%D1%83%D0%B4%D0%B8%D1%82+%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2+%F0%9F%94%8D;%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE+%D1%81+YouTube+%D0%B8+TikTok+%F0%9F%8E%AC;%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E+%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B5+%D1%81+%D0%98%D0%98+%F0%9F%A4%96" alt="Пишу программы на Python" />
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Разработчик за компьютером" width="360" />
 
