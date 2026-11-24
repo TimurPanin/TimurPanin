@@ -4,10 +4,16 @@
 
 **Разработчик на Python**
 
-Пишу программы для себя: от проверки сайтов до загрузчика видео и игр.
+Пишу программы для себя: от проверки сайтов до загрузчика видео.
 
-[![Сайт](https://img.shields.io/badge/timurpanin.ru-сайт-6c7bff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://timurpanin.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-написать-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OBB1k)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Разработчик за компьютером" width="360" />
+
+<p>
+  <a href="https://timurpanin.ru"><img src="https://img.shields.io/badge/timurpanin.ru-%D1%81%D0%B0%D0%B9%D1%82-6c7bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт timurpanin.ru" /></a>
+  <a href="https://t.me/OBB1k"><img src="https://img.shields.io/badge/Telegram-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=TimurPanin&style=flat-square&color=6c7bff&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B" alt="Просмотры профиля" />
 
 </div>
 
@@ -80,5 +86,5 @@
 
 <a href="https://t.me/OBB1k"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:timyr.panin12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://vk.com/obb1k"><img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="ВКонтакте" /></a>
+<a href="https://vk.com/obb1k"><img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="ВКонтакте" /></a>
 <a href="https://www.linkedin.com/in/timur-panin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
